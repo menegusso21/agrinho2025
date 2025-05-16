@@ -5,3 +5,5 @@ https://www.google.com/search?q=profucao+de+morangos+em+santa+maria+do+oeste+pr&
 
 Imagens criadas através da Ia:
 https://www.google.com/search?q=chatgpt&rlz=1C1GCEU_pt-BRBR1161BR1162&oq=cha&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgYIARBFGEAyBggCEEUYOTINCAMQABiDARixAxiABDIKCAQQLhixAxiABDINCAUQABiDARixAxiABDIHCAYQABiABDIHCAcQABiABNIBCTQ0MDlqMGoxNagCCLACAfEF2-13Fnr4T3U&s
+fonte das imagens:
+https://images.app.goo.gl/yctLpfZCHcoGEFpJ9
