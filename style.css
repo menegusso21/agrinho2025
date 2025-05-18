@@ -109,3 +109,13 @@ article h3 {
 .imagens img:hover {
     transform: scale(1.05);
 }
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem {
+    height: 60px;
+    padding: 12px 0;
+}
