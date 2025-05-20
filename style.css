@@ -1,15 +1,15 @@
 /* Estilos gerais */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8f5; /* Cor de fundo suave */
-    color: #333; /* Cor do texto */
+    background-color: #e9fccf; /* Cor de fundo suave */
+    color: #4a593f; /* Cor do texto */
     margin: 0;
     padding: 0;
 }
 
 /* Cabeçalho */
 header {
-    background-color: #45a049; /* Verde suave */
+    background-color: #2db337; /* Verde suave */
     padding: 20px;
     text-align: center;
 }
